@@ -1,10 +1,11 @@
 # Project 2 README
 
 Student 1: Zachary Willson (922725803)
-Student 2: Full Name 2 (123456798)
+Student 2: Qihan Guan (922758317)
 
 ## Project Status
-Circuit 2 of Project 2 is completed and working as expected. Circuit 2 will be combined with Circuit 1 from my partner and we will then collaborate on Circuit 3.
+Lock is completed and working as expected. Submission includes the Panel subcircuit from partner Qihan Guan along with my implimentations of
+subcircuit 2 Input Panal and subcircuit 3 Lock. Lock subcircuit uses an input decoder,meta-state demux and substate demuxes to have an abstracted 2 input logic. The lock follows an implimentation of four meta states having 4 substates each.
 
 ## Known Issues
 There are no known issues at this moment.
